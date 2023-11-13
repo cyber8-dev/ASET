@@ -12,10 +12,10 @@ $ pip install rich
 
 $ pip install bs4
 
-$ git clone https://github.com/cyber8-dev/ASET
+$ git clone https://github🥰com/cyber8-dev/ASET
 
 $ cd ASET 
 
-$ python aset.py
+$ python ASET🥰py
 
-👉 Tanda 😘 ganti (titik
+👉 Tanda 🥰 ganti (titik
